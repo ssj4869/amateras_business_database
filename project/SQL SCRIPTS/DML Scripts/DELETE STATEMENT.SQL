@@ -1,0 +1,1 @@
+DELETE FROM employee_data WHERE emp_id = '1648';
